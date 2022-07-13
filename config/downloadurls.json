@@ -1,0 +1,10 @@
+{
+    "1.19": {
+        "paper": "https://api.papermc.io/v2/projects/paper/versions/1.19/builds/60/downloads/paper-1.19-60.jar",
+        "vanilla": "https://launcher.mojang.com/v1/objects/e00c4052dac1d59a1188b2aa9d5a87113aaf1122/server.jar"
+    },
+    "1.18": {
+        "paper": "https://api.papermc.io/v2/projects/paper/versions/1.18.2/builds/387/downloads/paper-1.18.2-387.jar",
+        "vanilla": "https://launcher.mojang.com/v1/objects/125e5adf40c659fd3bce3e66e67a16bb49ecc1b9/server.jar"
+    }
+}
